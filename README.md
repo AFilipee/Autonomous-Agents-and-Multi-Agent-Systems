@@ -1,14 +1,8 @@
-## ----------- Grupo 21 ------------
-
-87629 - André Leitão
-
-86443 - João Tavares
-
-86466 - Madalena Pedreira
+## Emergency Responses
 
 ---------------------------------
 
 To run the system:
-´´´
+```
 .\emergency\python3 emergency.py
-´´´
+```
